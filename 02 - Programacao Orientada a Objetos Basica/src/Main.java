@@ -7,7 +7,7 @@ public class Main {
 
         System.out.println(cachorro2.getNome());
         System.out.println(cachorro2.getPeso());
-        cachorro1.latir();
+        cachorro1.soar();
         System.out.println("O cachorro pegou uma " + cachorro1.pegar());
 
         System.out.println("O cachorro está " + cachorro1.interagir("carinho"));
